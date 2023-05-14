@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "MSISDN": 722341274,
-    "idNo": 23096652,
+    "msisdn": 722341274,
+    "idno": 23096652,
     "first_name": "Jacob",
     "last_name": "Taraya",
     "email": "jtaraya@google.com",
@@ -11,8 +11,8 @@
   },
   {
     "id": 2,
-    "MSISDN": 722737989,
-    "idNo": 22016232,
+    "msisdn": 722737989,
+    "idno": 22016232,
     "first_name": "Enock",
     "last_name": "Mokua",
     "email": "emokua@kisii.net",
@@ -21,18 +21,18 @@
   },
   {
     "id": 3,
-    "MSISDN": 722737989,
-    "idNo": 22016232,
+    "msisdn": 722737989,
+    "idno": 22016232,
     "first_name": "Sheree",
     "last_name": "Madeley",
     "email": "smadeley2@google.com",
-    "gender": "Female",
+    "gender": "Male",
     "university": "Kateb Institute of Higher Education"
   },
   {
     "id": 4,
-    "MSISDN": 722737989,
-    "idNo": 22016232,
+    "msisdn": 722737989,
+    "idno": 22016232,
     "first_name": "Egor",
     "last_name": "Downing",
     "email": "edowning3@nymag.com",
@@ -41,8 +41,8 @@
   },
   {
     "id": 5,
-    "MSISDN": 722737989,
-    "idNo": 22016232,
+    "msisdn": 722737989,
+    "idno": 22016232,
     "first_name": "Donn",
     "last_name": "Wilce",
     "email": "dwilce4@answers.com",
@@ -51,8 +51,8 @@
   },
   {
     "id": 6,
-    "MSISDN": 722341274,
-    "idNo": 23096652,
+    "msisdn": 722341274,
+    "idno": 23096652,
     "first_name": "Kenon",
     "last_name": "Jersch",
     "email": "kjersch5@youtu.be",
@@ -61,28 +61,28 @@
   },
   {
     "id": 7,
-    "MSISDN": 722341274,
-    "idNo": 23096652,
+    "msisdn": 722341274,
+    "idno": 23096652,
     "first_name": "Klara",
     "last_name": "Valett",
     "email": "kvalett6@plala.or.jp",
-    "gender": "Female",
+    "gender": "Male",
     "university": "Gifu Keizai University"
   },
   {
     "id": 8,
-    "MSISDN": 722341274,
-    "idNo": 23096652,
+    "msisdn": 722341274,
+    "idno": 23096652,
     "first_name": "Roberta",
     "last_name": "Glendinning",
     "email": "rglendinning7@ft.com",
-    "gender": "Female",
+    "gender": "Male",
     "university": "University of Marketing and Distribution Sciences"
   },
   {
     "id": 9,
-    "MSISDN": 722341274,
-    "idNo": 23096652,
+    "msisdn": 722341274,
+    "idno": 23096652,
     "first_name": "Murray",
     "last_name": "Gherarducci",
     "email": "mgherarducci8@webmd.com",
@@ -91,8 +91,8 @@
   },
   {
     "id": 10,
-    "MSISDN": 722737989,
-    "idNo": 22016232,
+    "msisdn": 722737989,
+    "idno": 22016232,
     "first_name": "Hamid",
     "last_name": "Wixey",
     "email": "hwixey9@alibaba.com",
@@ -101,8 +101,8 @@
   },
   {
     "id": 11,
-    "MSISDN": 722737989,
-    "idNo": 22016232,
+    "msisdn": 722737989,
+    "idno": 22016232,
     "first_name": "Neils",
     "last_name": "Gyorgy",
     "email": "ngyorgya@vistaprint.com",
@@ -111,23 +111,23 @@
   },
   {
     "id": 12,
-    "MSISDN": 722737989,
-    "idNo": 22016232,
+    "msisdn": 722737989,
+    "idno": 22016232,
     "first_name": "Janetta",
     "last_name": "Greger",
     "email": "jgregerb@google.com.br",
-    "gender": "Female",
+    "gender": "Male",
     "university": "Manuel S. Enverga University Foundation"
   },
 
   {
     "id": 13,
-    "MSISDN": 722341274,
-    "idNo": 23096652,
+    "msisdn": 722341274,
+    "idno": 23096652,
     "first_name": "Sonia",
     "last_name": "Courtes",
     "email": "scourtesdv@independent.co.uk",
-    "gender": "Agender",
+    "gender": "Male",
     "university": "John F. Kennedy University"
   }
 ]
