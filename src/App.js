@@ -24,6 +24,14 @@ function App() {
         accessor: 'email',
       },
       {
+        Header: 'MSISDN',
+        accessor: 'msisdn',
+      },
+      {
+        Header: 'IDNO',
+        accessor: 'idno',
+      },
+      {
         Header: 'Gender',
         accessor: 'gender',
       },
