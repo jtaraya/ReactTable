@@ -1,6 +1,8 @@
 [
   {
     "id": 1,
+    "MSISDN": 722341274,
+    "idNo": 23096652,
     "first_name": "Jacob",
     "last_name": "Taraya",
     "email": "jtaraya@google.com",
@@ -9,6 +11,8 @@
   },
   {
     "id": 2,
+    "MSISDN": 722737989,
+    "idNo": 22016232,
     "first_name": "Enock",
     "last_name": "Mokua",
     "email": "emokua@kisii.net",
