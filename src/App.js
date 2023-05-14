@@ -3,6 +3,7 @@ import fakeData from './MOCK_DATA.json';
 import * as React from 'react';
 import { useTable } from 'react-table';
 
+
 function App() {
   const data = React.useMemo(() => fakeData, []);
   const columns = React.useMemo(

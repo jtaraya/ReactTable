@@ -5,9 +5,9 @@
     "idno": 23096652,
     "first_name": "Jacob",
     "last_name": "Taraya",
-    "email": "jtaraya@google.com",
+    "email": "jtaraya@digitalacademy.com",
     "gender": "Male",
-    "university": "Nairobi University"
+    "university": "University of Nairobi"
   },
   {
     "id": 2,
@@ -22,10 +22,10 @@
   {
     "id": 3,
     "msisdn": 713467781,
-    "idno": 227016232,
+    "idno": 27016232,
     "first_name": "Martin",
     "last_name": "Munene",
-    "email": "mmunene@google.com",
+    "email": "mmunene@rabbi.com",
     "gender": "Male",
     "university": "Oxford university"
   },
@@ -46,7 +46,7 @@
     "first_name": "Naiobi",
     "last_name": "Wilce",
     "email": "dwilce4@answers.com",
-    "gender": "Male",
+    "gender": "Female",
     "university": "State University of New York at Binghamton"
   },
   {
@@ -66,14 +66,14 @@
     "first_name": "Klara",
     "last_name": "Valett",
     "email": "kvalett6@plala.or.jp",
-    "gender": "Male",
+    "gender": "Female",
     "university": "Gifu Keizai University"
   },
   {
     "id": 8,
     "msisdn": 722341345,
     "idno": 23096652,
-    "first_name": "Roberta",
+    "first_name": "Roberto",
     "last_name": "Glendinning",
     "email": "rglendinning7@ft.com",
     "gender": "Male",
@@ -116,7 +116,7 @@
     "first_name": "Janetta",
     "last_name": "Greger",
     "email": "jgregerb@google.com.br",
-    "gender": "Male",
+    "gender": "Female",
     "university": "Manuel S. Enverga University Foundation"
   },
 
@@ -127,7 +127,7 @@
     "first_name": "Sonia",
     "last_name": "Courtes",
     "email": "scourtesdv@independent.co.uk",
-    "gender": "Male",
+    "gender": "Female",
     "university": "John F. Kennedy University"
   }
 ]
