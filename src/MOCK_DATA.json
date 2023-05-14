@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "first_name": "JC",
+    "first_name": "Jacob",
     "last_name": "Taraya",
     "email": "jtaraya@google.com",
     "gender": "Male",
@@ -9,11 +9,11 @@
   },
   {
     "id": 2,
-    "first_name": "Siward",
-    "last_name": "Amberger",
-    "email": "samberger1@behance.net",
+    "first_name": "Enock",
+    "last_name": "Mokua",
+    "email": "emokua@kisii.net",
     "gender": "Male",
-    "university": "Institute of Industrial Electronics Engineering"
+    "university": "Institute of Industrial Software Engineering"
   },
   {
     "id": 3,
